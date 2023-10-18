@@ -25,7 +25,6 @@
     "@ckeditor/ckeditor5-indent": "40.0.0",
     "@ckeditor/ckeditor5-link": "40.0.0",
     "@ckeditor/ckeditor5-list": "40.0.0",
-    "@ckeditor/ckeditor5-markdown-gfm": "40.0.0",
     "@ckeditor/ckeditor5-media-embed": "40.0.0",
     "@ckeditor/ckeditor5-mention": "40.0.0",
     "@ckeditor/ckeditor5-page-break": "40.0.0",
